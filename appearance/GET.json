@@ -1,0 +1,10 @@
+{
+    "banners": [
+        {
+            "image": "/image/banner1.jpg"
+        },
+        {
+            "image": "/image/banner2.jpg"
+        }
+    ]
+}

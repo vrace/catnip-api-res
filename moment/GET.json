@@ -1,0 +1,33 @@
+{
+    "moments": [
+        {
+            "cat": "Kitty",
+            "timestamp": "2017-09-27",
+            "message": "Posted some new picture.",
+            "thumbs": [
+                {
+                    "image": "/image/thumb1.jpg"
+                },
+                {
+                    "image": "/image/thumb2.jpg"
+                },
+                {
+                    "image": "/image/thumb3.jpg"
+                }
+            ]
+        },
+        {
+            "cat": "Max",
+            "timestamp": "2017-09-26",
+            "message": "Finally I have my cat",
+            "thumbs": [
+                {
+                    "image": "/image/thumb1.jpg"
+                },
+                {
+                    "image": "/image/thumb2.jpg"
+                }
+            ]
+        }
+    ]
+}
