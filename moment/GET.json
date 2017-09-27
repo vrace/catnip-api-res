@@ -1,6 +1,7 @@
 {
     "moments": [
         {
+            "id": "deadbeef01",
             "cat": "Kitty",
             "avatar": "/image/avatar1.jpg",
             "timestamp": "2017-09-27",
@@ -18,6 +19,7 @@
             ]
         },
         {
+            "id": "deadbeef02",
             "cat": "Max",
             "avatar": "/image/avatar2.jpg",
             "timestamp": "2017-09-26",
