@@ -2,6 +2,7 @@
     "moments": [
         {
             "cat": "Kitty",
+            "avatar": "/image/avatar1.jpg",
             "timestamp": "2017-09-27",
             "message": "Posted some new picture.",
             "thumbs": [
@@ -18,8 +19,9 @@
         },
         {
             "cat": "Max",
+            "avatar": "/image/avatar2.jpg",
             "timestamp": "2017-09-26",
-            "message": "Finally I have my cat",
+            "message": "Finally I have my cat.",
             "thumbs": [
                 {
                     "image": "/image/thumb1.jpg"
